@@ -657,3 +657,9 @@
     font-size: 24px;
   }
 }
+
+@media (max-width: 760px) {
+  .topbar .credit {
+    display: none;
+  }
+}
